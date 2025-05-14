@@ -64,7 +64,6 @@ const config = {
         items: [
           { type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Docusaurus' },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { label: 'LLMs', position: 'left', to: '/docs/category/llms' },
           {
             'href': 'https://github.com/vonhatphuongahihi',
             'position': 'right',
@@ -82,8 +81,7 @@ const config = {
             items: [
               { label: 'Trang chủ', to: '/' },
               { label: 'Blog', to: '/blog' },
-              { label: 'Tài liệu', to: '/docs/intro' },
-              { label: 'Dự án', to: '/docs/category/projects' }
+              { label: 'Tài liệu', to: '/docs/intro' }
             ]
           },
           {
