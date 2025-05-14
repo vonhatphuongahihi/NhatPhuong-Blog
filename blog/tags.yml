@@ -1,0 +1,40 @@
+hello:
+  label: 'Hello'
+  permalink: '/hello'
+  description: 'Bài viết mở đầu'
+
+docusaurus:
+  label: 'Docusaurus'
+  permalink: '/docusaurus'
+  description: 'Bài viết về Docusaurus'
+
+llms:
+  label: 'LLMs'
+  permalink: '/llms'
+  description: 'Bài viết về LLMs'
+
+react:
+  label: 'React'
+  permalink: '/react'
+  description: 'Bài viết về React'
+
+nextjs:
+  label: 'Next.js'
+  permalink: '/nextjs'
+  description: 'Bài viết về Next.js'
+
+java:
+  label: 'Java'
+  permalink: '/java'
+  description: 'Bài viết về Java'
+
+python:
+  label: 'Python'
+  permalink: '/python'
+  description: 'Bài viết về Python'
+
+typescript:
+  label: 'TypeScript'
+  permalink: '/typescript'
+  description: 'Bài viết về TypeScript'
+  
