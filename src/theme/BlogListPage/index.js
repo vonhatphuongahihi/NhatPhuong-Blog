@@ -31,7 +31,7 @@ function BlogHomepageBanner(props) {
   const blogMetadata = props.metadata
   const imageDefault = {
     urlBannerBg:
-      'https://res.cloudinary.com/dfts9mh62/image/upload/v1747240060/WEB_DEV_sqggkm.png',
+      'https://res.cloudinary.com/dfts9mh62/image/upload/v1747357576/WEB_DEV_2_jubdza.png',
     urlAvatar:
       'https://res.cloudinary.com/dfts9mh62/image/upload/v1747237916/gau_con_kpdxtr.png'
   }

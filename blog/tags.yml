@@ -37,4 +37,19 @@ typescript:
   label: 'TypeScript'
   permalink: '/typescript'
   description: 'Bài viết về TypeScript'
+
+docker:
+  label: 'Docker'
+  permalink: '/docker'
+  description: 'Bài viết về Docker'
+
+render:
+  label: 'Render'
+  permalink: '/render'
+  description: 'Bài viết về Render'
+
+
+
+
+  
   
