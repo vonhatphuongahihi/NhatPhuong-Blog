@@ -222,15 +222,14 @@ const config = {
       }
     ],
     [
-      'ideal-image',
-      /** @type {import('@docusaurus/plugin-ideal-image').PluginOptions} */
-      ({
+      '@docusaurus/plugin-ideal-image',
+      {
         quality: 70,
         max: 1030,
         min: 640,
         steps: 2,
-        disableInDev: true
-      })
+        disableInDev: false,
+      },
     ],
     [
       './src/plugins/blog-plugin',
