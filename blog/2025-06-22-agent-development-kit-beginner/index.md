@@ -1,5 +1,5 @@
 ---
-slug: agent-development-kit
+slug: agent-development-kit-beginner
 title: "Tìm Hiểu Về Agent Development Kit (ADK) - Công Cụ Mới Của Google"
 image: img/agent-development-kit-beginner.png
 authors: [vonhatphuong]
