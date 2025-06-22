@@ -1,6 +1,6 @@
 ---
 slug: foundations-of-UX-design
-title: "Nền Tảng Của Thiết Kế Trải Nghiệm Người Dùng (UX) (P1)"
+title: "Nền Tảng Của Thiết Kế Trải Nghiệm Người Dùng (UX)"
 image: img/ux_design.png
 authors: [vonhatphuong]
 tags: [ux, design, user-experience]
