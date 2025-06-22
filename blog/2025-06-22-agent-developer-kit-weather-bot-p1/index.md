@@ -6,7 +6,7 @@ authors: [vonhatphuong]
 tags: [ADK, LLM, AIagent]
 ---
 
-# Xây Dựng Hệ Thống Đa Agent Thông Minh với Google ADK: Weather Bot Đa Tác Nhân
+# Xây Dựng Hệ Thống Đa Agent Thông Minh với Google ADK: Weather Bot Đa Tác Nhân (P1)
 <p align="justify">
 🌤️ Chúng ta sẽ xây dựng một “Weather Bot” với nhiều agent phối hợp. Bắt đầu từ một agent đơn giản có thể tra cứu thời tiết, mình sẽ từng bước bổ sung các tính năng nâng cao như:
 - **Tool Definition**: Định nghĩa các hàm Python làm "năng lực" cho agent
